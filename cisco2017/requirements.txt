@@ -1,0 +1,19 @@
+# Data Processing & Machine Learning (Phase 1)
+pandas
+numpy
+scikit-learn
+lightgbm
+joblib
+jupyter
+
+# Data Streaming / Kafka Consumer (Phase 2)
+confluent-kafka
+
+# API / Inference Service Backend (Phase 2)
+fastapi
+uvicorn[standard]
+pydantic
+
+# Database & Environment Utilities (Phase 2)
+pymongo
+python-dotenv
